@@ -1,6 +1,6 @@
 #SIR Model 
 
-![Alt text](https://github.com/maxmalikov/Network-Scaling-Approach/SIR.png)
+!(./SIR.png "SIR Model")
 
 This folder contains the SIR model files for both NetLogo and Python model versions. 
 
