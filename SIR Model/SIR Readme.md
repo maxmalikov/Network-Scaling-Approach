@@ -1,6 +1,6 @@
 #SIR Model 
 
-!(./SIR.png "SIR Model")
+![](./SIR.png "SIR Model")
 
 This folder contains the SIR model files for both NetLogo and Python model versions. 
 
