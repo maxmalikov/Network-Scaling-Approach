@@ -1,4 +1,4 @@
-#SIR Model 
+# SIR Model 
 
 ![](./SIR.png "SIR Model")
 
